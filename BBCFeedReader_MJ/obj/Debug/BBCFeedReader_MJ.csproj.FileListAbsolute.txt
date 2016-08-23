@@ -1,0 +1,16 @@
+C:\Users\MichaelJ\Dropbox\dadweb\BBCFeedReader_MJ\BBCFeedReader_MJ\bin\Debug\BBCFeedReader_MJ.exe.config
+C:\Users\MichaelJ\Dropbox\dadweb\BBCFeedReader_MJ\BBCFeedReader_MJ\bin\Debug\BBCFeedReader_MJ.exe
+C:\Users\MichaelJ\Dropbox\dadweb\BBCFeedReader_MJ\BBCFeedReader_MJ\bin\Debug\BBCFeedReader_MJ.pdb
+C:\Users\MichaelJ\Dropbox\dadweb\BBCFeedReader_MJ\BBCFeedReader_MJ\obj\Debug\BBCFeedReader_MJ.csprojResolveAssemblyReference.cache
+C:\Users\MichaelJ\Dropbox\dadweb\BBCFeedReader_MJ\BBCFeedReader_MJ\obj\Debug\BBCFeedReader_MJ.exe
+C:\Users\MichaelJ\Dropbox\dadweb\BBCFeedReader_MJ\BBCFeedReader_MJ\obj\Debug\BBCFeedReader_MJ.pdb
+C:\Users\MichaelJ\Dropbox\dadweb\BBCFeedReader_MJ\BBCFeedReader_MJ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MichaelJ\Dropbox\dadweb\BBCFeedReader_MJ\BBCFeedReader_MJ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MichaelJames\Documents\Visual Studio 2015\Projects\BBCFeedReader_MJ\BBCFeedReader_MJ\bin\Debug\BBCFeedReader_MJ.exe.config
+C:\Users\MichaelJames\Documents\Visual Studio 2015\Projects\BBCFeedReader_MJ\BBCFeedReader_MJ\obj\Debug\BBCFeedReader_MJ.exe
+C:\Users\MichaelJames\Documents\Visual Studio 2015\Projects\BBCFeedReader_MJ\BBCFeedReader_MJ\obj\Debug\BBCFeedReader_MJ.pdb
+C:\Users\MichaelJames\Documents\Visual Studio 2015\Projects\BBCFeedReader_MJ\BBCFeedReader_MJ\bin\Debug\BBCFeedReader_MJ.exe
+C:\Users\MichaelJames\Documents\Visual Studio 2015\Projects\BBCFeedReader_MJ\BBCFeedReader_MJ\bin\Debug\BBCFeedReader_MJ.pdb
+C:\Users\MichaelJames\Documents\Visual Studio 2015\Projects\BBCFeedReader_MJ\BBCFeedReader_MJ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MichaelJames\Documents\Visual Studio 2015\Projects\BBCFeedReader_MJ\BBCFeedReader_MJ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MichaelJames\Documents\Visual Studio 2015\Projects\BBCFeedReader_MJ\BBCFeedReader_MJ\obj\Debug\BBCFeedReader_MJ.csprojResolveAssemblyReference.cache
